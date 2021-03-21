@@ -1,0 +1,191 @@
+<xml version="1.0" encoding="UTF-8">
+<bookstore>
+<name>Sebahat</name>
+<surname>Kecici</surname>
+<heading>XML PROJECT</heading>
+    
+    <book categori="Roman">
+        <title lang="tur">Fareler ve İnsanlar</title>
+        <author>John Steinbeck</author>
+        <year>1972</year>
+        <price>11,00 TL</price>
+        <ISBN>9789755705859</ISBN>
+        <publication>Sel Yayıncılık</publication>
+        <PhysicalDescription>111</PhysicalDescription>
+        <abstract>Fareler ve İnsanlar, birbirine zıt karakterdeki iki mevsimlik tarım işçisinin, zeki George Milton ve onun güçlü kuvvetli ama akli dengesi bozuk yoldaşı Lennie Small’un öyküsünü anlatır. Küçük bir toprak satın alıp insanca bir hayat yaşamanın hayalini kuran bu ikilinin öyküsünde dostluk ve dayanışma duygusu önemli bir yer tutar. Steinbeck insanın insanla ilişkisini anlatmakla kalmaz insanın doğayla ve toplumla kurduğu ilişkileri de konu eder bu destansı romanında. Kitabın ismine ilham veren Robert Burns şiirindeki gibi; “En iyi planları farelerin ve insanların / Sıkça ters gider…"</abstract>
+        
+    </book>
+
+    
+     <book categori="Roman">
+        <title lang="tur">Toprak Ana</title>
+        <author>Cengiz Aytmatov</author>
+        <year>2015</year>
+        <price>12,00 TL</price>
+        <ISBN>9789754371543</ISBN>
+        <publication>Ötüken</publication>
+        <PhysicalDescription>136</PhysicalDescription>
+        <abstract>Cengiz Aytmatov, Toprak Ana romanında erkekleri askere alınan bozkırın ortasındaki bir Kırgız köyünde geride kalanların çektiği sıkıntıları anlatıyor. Eldeki yetersiz yiyeceğin muhtaç olandan başlanarak dağıtılması, dört gözle beklenen hasat zamanları, umutların hasat zamanına ertelenmesi, savaş yüzünden ürünün hemen hepsinin merkezden istenmesi, boşa çıkan umutlar, yine açlık, sefalet, bir yandan cepheden gelen ölüm haberleri, umutsuz bekleyişler, savaşın uzun sürmesi üzerine aşağı çekilen cepheye çağrılma yaşı, anaların evlatlarını bir bir askere göndermesi, ayrılıklar, gözyaşları... Yani tek kelimeyle ve bütün zulmetiyle; savaş. Cengiz Aytmatov, o her zamanki berrak ve akıcı üslûbuyla bizleri, adeta insanları öğütür gibi harcayan savaş düzeneğinin yarattığı trajedilerle sarsıyor.</abstract>
+        
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Veba Geceleri</title>
+        <author>Orhan Pamuk</author>
+        <year>2018</year>
+        <price>27,33 TL</price>
+        <ISBN>9789750849282</ISBN>
+        <publication>Yapı Kredi Yayınları</publication>
+        <PhysicalDescription>544</PhysicalDescription>
+        <abstract>Orhan Pamuk’un üzerinde 5 yıldır çalıştığı Veba Geceleri, 1901 yılında 3. Veba Pandemisi döneminde Osmanlı’nın 29. Vilayeti Minger adasında geçiyor.  Hem sürükleyici bir siyaset ve aşk romanı hem de Pamuk’un salgın, karantina, devlet ve birey konularını bir masal havasıyla tartıştığı bu tarihi roman, konusuyla yaşadığımız günlere de ışık düşürüyor. 1901 baharında Osmanlı İmparatorluğu’nun 29. vilayeti Minger Adası’nda veba salgını baş gösterince Sultan Abdülhamit önce Sağlık Başmüfettişi kimyager Bonkowski Paşa’yı, onun arkasından da genç ve başarılı Doktor Nuri’yi salgını durdurması için adaya gönderir. Padişah kısa bir süre önce genç doktoru, sarayda hapis hayatı yaşattığı ağabeyi önceki padişah V. Murat’ın kızı Pakize Sultan ile evlendirmiştir ve Pakize Sultan da bu yolculukta kocasına eşlik etmektedir. Adada ise genç ve milliyetçi Osmanlı subayı Kolağası Kâmil, onun âşık olduğu adalı Zeynep ve her şeye yetişmeye çalışan Vali Sami Paşa ile güzel sevgilisi Marika vardır. Karantina yasaklarına itaat edilmesi için çaba harcayan bu insanların vebayla, adadaki geleneklerle ve sonunda birbirleriyle ve ölüm tehditleriyle savaşının ve yaşadıkları aşkların hikâyesidir.</abstract>
+        
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Momo</title>
+        <author>Michael Ende</author>
+        <year>2017</year>
+        <price>16,07 TL</price>
+        <ISBN>9786052993019</ISBN>
+        <publication>Pegasus Yayınları</publication>
+        <PhysicalDescription>304</PhysicalDescription>
+        <abstract>Zaman, yaşamın kendisidir. Ve yaşamın yeri yürektir. Momo, büyük bir kentin tiyatro harabelerinde yaşayan küçük bir kızdır. Buldukları ya da kendisine hediye edilenler dışında hiçbir şeyi yoktur. Ancak olağanüstü bir yeteneği vardır: Momo, muhteşem bir dinleyicidir ve bunun için oldukça bol zamanı vardır. Bir gün hayaletimsi topluluk “duman adamlar” ortaya çıkar. İnce hesaplı planlar kurup insanların zamanını çalarlar. Onları durduracak tek kişiyse Momo’dur. Momo elinde bir çiçek, koltuğunun altında bir kaplumbağa ve gizemli Hora Usta’nın da yardımıyla koskoca duman adamlar ordusunun karşısında tek başına durur. Acaba Momo, zamanı çalan adamları tek başına alt edebilecek midir? Toplumumuz ve günümüz insanının zaman algısı ve zamanı okuması üzerine bir masal olan Momo’yla Michael Ende, Alman Gençlik Edebiyatı Ödülü’ne layık görülmüştür. Pek çok kez sinemaya uyarlanan Momo, kırktan fazla dile çevrilmiş, tüm dünyada 7 milyonun üzerinde satılmıştır.</abstract>
+        
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Körlük</title>
+        <author>Jose Saramago</author>
+        <year>2019</year>
+        <price>19,48 TL</price>
+        <ISBN>9786052980811</ISBN>
+        <publication>Kırmızı Kedi Yayınevi</publication>
+        <PhysicalDescription>336</PhysicalDescription>
+        <abstract>Adı bilinmeyen bir ülkenin adı bilinmeyen bir kentinde, arabasının direksiyonunda trafik ışığının yeşile dönmesini bekleyen bir adam ansızın kör olur. Ancak karanlıklara değil, bembeyaz bir boşluğa gömülür. Arkasından, körlük salgını bütün kente, hatta bütün ülkeye yayılır. Ne yönetim kalır ülkede, ne de düzen; bütün körler karantinaya alınır. Hayal bile edilemeyecek bir kaos, pislik, açlık ve zorbalık hüküm sürmektedir artık. Yaşam durmuştur, insanların tek çabası, ne pahasına olursa olsun hayatta kalmaktır. Roman, kentteki akıl hastanesinde karantinaya alınan, oradan kurtulunca da birbirinden ayrılmayan, biri çocuk yedi kişiye odaklanır. Aralarında, bütün kentte gözleri gören tek kişi olan ve gruptakilere rehberlik eden bir kadın da vardır. Bu yedi kişi, cehenneme dönen bu kentte, hayatta kalabilmek için inanılmaz bir mücadele verir. Saramago’nun müthiş bir gözlem gücüyle betimlediği bu kaotik dünya, insanın karanlık yüzünün simgesi. Körlük, ürkütücü bir roman, beklenmedik bir felaketi yaşayan bir toplumun nasıl çöktüğünün, nasıl bencilleştiğinin ve değer yargılarını yitirdiğinin hikâyesi. Konusunun ürkütücülüğüne rağmen olağanüstü bir şiirsellikle anlatılmış bu unutulmaz roman, usta yazarın belki de en etkileyici yapıtı.</abstract>
+       
+    </book>
+    
+     <book categori="Roman">
+        <title lang="tur">Saatleri Ayarlama Enstitüsü</title>
+        <author>Ahmet Hamdi Tanpınar</author>
+        <year>2017</year>
+        <price>28,75 TL</price>
+        <ISBN>9789759955762</ISBN>
+        <publication>Dergah Yayınları</publication>
+        <PhysicalDescription>382</PhysicalDescription>
+        <abstract>Ahmet Hamdi Tanpınar'ın şiiri sembolist bir ifade üzerine kurulmuştur. Aynı anlatım tarzı romanlarına da zaman zaman sirayet eder. Ancak muhteva açısından metafizik eğilimleri ile estetik endişelerini şiire ayırdığı halde, sosyal temalar için nesri seçmiştir. Romanları, zengin hayat hikayesinden taşarak Türkiye meselelerine kendine has yorumlar getirir.</abstract>
+        
+    </book>
+    
+     <book categori="h">
+        <title lang="en">kitap isim</title>
+        <author>Yazar adı</author>
+        <year> yıl</year>
+        <price> para</price>
+        <ISBN>NUMARA</ISBN>
+        <publication> yayın evi</publication>
+        <PhysicalDescription> sayfa sayısı</PhysicalDescription>
+        <abstract> özet </abstract>
+        <SubjectTerm> </SubjectTerm> 
+    </book>
+    
+     <book categori="h">
+        <title lang="en">kitap isim</title>
+        <author>Yazar adı</author>
+        <year> yıl</year>
+        <price> para</price>
+        <ISBN>NUMARA</ISBN>
+        <publication> yayın evi</publication>
+        <PhysicalDescription> sayfa sayısı</PhysicalDescription>
+        <abstract> özet </abstract>
+        <SubjectTerm> </SubjectTerm> 
+    </book>
+    
+     <book categori="h">
+        <title lang="en">kitap isim</title>
+        <author>Yazar adı</author>
+        <year> yıl</year>
+        <price> para</price>
+        <ISBN>NUMARA</ISBN>
+        <publication> yayın evi</publication>
+        <PhysicalDescription> sayfa sayısı</PhysicalDescription>
+        <abstract> özet </abstract>
+        <SubjectTerm> </SubjectTerm> 
+    </book>
+    
+     <book categori="h">
+        <title lang="en">kitap isim</title>
+        <author>Yazar adı</author>
+        <year> yıl</year>
+        <price> para</price>
+        <ISBN>NUMARA</ISBN>
+        <publication> yayın evi</publication>
+        <PhysicalDescription> sayfa sayısı</PhysicalDescription>
+        <abstract> özet </abstract>
+        <SubjectTerm> </SubjectTerm> 
+    </book>
+    
+     <book categori="h">
+        <title lang="en">kitap isim</title>
+        <author>Yazar adı</author>
+        <year> yıl</year>
+        <price> para</price>
+        <ISBN>NUMARA</ISBN>
+        <publication> yayın evi</publication>
+        <PhysicalDescription> sayfa sayısı</PhysicalDescription>
+        <abstract> özet </abstract>
+        <SubjectTerm> </SubjectTerm> 
+    </book>
+    
+     <book categori="h">
+        <title lang="en">kitap isim</title>
+        <author>Yazar adı</author>
+        <year> yıl</year>
+        <price> para</price>
+        <ISBN>NUMARA</ISBN>
+        <publication> yayın evi</publication>
+        <PhysicalDescription> sayfa sayısı</PhysicalDescription>
+        <abstract> özet </abstract>
+        <SubjectTerm> </SubjectTerm> 
+    </book>
+    
+     <book categori="h">
+        <title lang="en">kitap isim</title>
+        <author>Yazar adı</author>
+        <year> yıl</year>
+        <price> para</price>
+        <ISBN>NUMARA</ISBN>
+        <publication> yayın evi</publication>
+        <PhysicalDescription> sayfa sayısı</PhysicalDescription>
+        <abstract> özet </abstract>
+        <SubjectTerm> </SubjectTerm>  
+    </book>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </bookstore>
+</xml>
